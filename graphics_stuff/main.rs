@@ -1,7 +1,7 @@
 
 
-
-
+//use "cargo run [project folder name]"
+//go to macroquad site to see how to config
 
 
 
